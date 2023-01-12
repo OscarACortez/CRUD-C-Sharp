@@ -1,0 +1,22 @@
+c:\users\admin\documents\visual studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe
+c:\users\admin\documents\visual studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.pdb
+c:\users\admin\documents\visual studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.exe
+c:\users\admin\documents\visual studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.pdb
+F:\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe.config
+F:\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.exe
+F:\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.pdb
+D:\CRUD con DGV\PracticaEvaluada Fernando\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe.config
+D:\CRUD con DGV\PracticaEvaluada Fernando\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe
+D:\CRUD con DGV\PracticaEvaluada Fernando\PracticaEvaluada\bin\Debug\PracticaEvaluada.pdb
+D:\CRUD con DGV\PracticaEvaluada Fernando\PracticaEvaluada\obj\Debug\PracticaEvaluada.csprojAssemblyReference.cache
+D:\CRUD con DGV\PracticaEvaluada Fernando\PracticaEvaluada\obj\Debug\PracticaEvaluada.Form1.resources
+D:\CRUD con DGV\PracticaEvaluada Fernando\PracticaEvaluada\obj\Debug\PracticaEvaluada.Properties.Resources.resources
+D:\CRUD con DGV\PracticaEvaluada Fernando\PracticaEvaluada\obj\Debug\PracticaEvaluada.csproj.GenerateResource.cache
+D:\CRUD con DGV\PracticaEvaluada Fernando\PracticaEvaluada\obj\Debug\PracticaEvaluada.csproj.CoreCompileInputs.cache
+D:\CRUD con DGV\PracticaEvaluada Fernando\PracticaEvaluada\obj\Debug\PracticaEvaluada.exe
+D:\CRUD con DGV\PracticaEvaluada Fernando\PracticaEvaluada\obj\Debug\PracticaEvaluada.pdb
