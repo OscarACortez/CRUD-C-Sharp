@@ -18,7 +18,7 @@
 
 
 ## Instalación 
-* Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
+* Este proyecto necesita de instalación Visual Studio o VSCode. Simplemente abre la carpeta o haz doble click en el .cs
 
 ## Contratación 
 * Si quieres contratarne puedes escribirse a oscar0002ortiz@gmail.com para consultas.
